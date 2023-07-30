@@ -19,10 +19,7 @@ const Home = () => {
             I'm a Frontend Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            To be a part of the challenging team which strives for the better
-            growth of the organization and which explores my potential and
-            provides me with the opportunity to enhance my talent with an
-            intention to become an asset to the company.
+            
           </p>
           <div>
             <Link
