@@ -7,14 +7,13 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="h-screen w-full bg-gradient-to-b from-black
-        via-black to-gray-800"
+      className="h-screen w-full bg-gradient-to-r from-slate-900 to-slate-700"
     >
       <div
         className="max-w-screen-lg mx-auto flex flex-col 
-      items-center justify-center h-full px-4 md:flex-row"
+      items-center justify-center h-full px-4 md:flex-row gap-20"
       >
-        <div className="flex flex-col justify-center h-full">
+        <div className="flex flex-col justify-center h-full gap-2">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Frontend Web Developer
           </h2>

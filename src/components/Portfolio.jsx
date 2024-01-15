@@ -33,7 +33,7 @@ const Porfolio = () => {
   return (
     <div
       name="portfolio"
-      className="bg-gradient-to-b from-black to-gray-800 w-full
+      className="bg-gradient-to-r from-slate-900 to-slate-700 w-full
      text-white md:h-screen"
     >
       <div
