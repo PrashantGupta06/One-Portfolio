@@ -3,10 +3,9 @@ import html from "../assets/experience/html.png"
 import css from "../assets/experience/css.png";
 import javascript from "../assets/experience/javascript.png";
 import reactImage from "../assets/experience/react.png";
-import nextjs from "../assets/experience/nextjs.png";
 import cpp from "../assets/experience/c++.png";
 import github from "../assets/experience/github.png";
-import tailwind from "../assets/experience/tailwind.png";
+
 
 const Experience = () => {
 
@@ -34,18 +33,6 @@ const Experience = () => {
         src: reactImage,
         title: "REACT",
         style: "shadow-blue-600",
-      },
-      {
-        id: 5,
-        src: tailwind,
-        title: "TAILWIND",
-        style: "shadow-sky-500",
-      },
-      {
-        id: 6,
-        src: nextjs,
-        title: "Nextjs",
-        style: "shadow-white",
       },
       {
         id: 7,

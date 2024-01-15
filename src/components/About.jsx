@@ -10,28 +10,13 @@ const About = () => {
           <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
         </div>
         <p className='text-xl mt-20'>
-          To be a part of the challenging team which strives for the better
-          growth of the organization and which explores my potential and
-          provides me with the opportunity to enhance my talent with an
-          intention to become an asset to the company. I believe that i have
-          excellent interpersonal skills, hard working, honest, punctual and
-          quick learning ability at any kind of situations. Besides that i can
-          also work in pressure condition and enjoy to face new challenges,
-          eager to learn new technologies and able to handle multiple tasks
-          simultaneously
+        As an aspiring frontend developer, I bring enthusiasm and a fresh perspective for crafting engaging web experiences.
+         Proficient in HTML, CSS, and JavaScript, I'm eager to contribute my skills and learn in a collaborative environment. 
+         Committed to staying updated on industry trends and  excited to embark on a journey of continuous growth and innovation in the world of frontend development.
+         My inclination is drawn towards problem solving in the view of which i have been solving various problems on several platforms like Leetcode and GFG.
+         Let's create compelling digital landscapes together!
         </p>
         <br />
-        <p className='text-xl'>
-          To be a part of the challenging team which strives for the better
-          growth of the organization and which explores my potential and
-          provides me with the opportunity to enhance my talent with an
-          intention to become an asset to the company. I believe that i have
-          excellent interpersonal skills, hard working, honest, punctual and
-          quick learning ability at any kind of situations. Besides that i can
-          also work in pressure condition and enjoy to face new challenges,
-          eager to learn new technologies and able to handle multiple tasks
-          simultaneously
-        </p>
       </div>
     </div>
   );
