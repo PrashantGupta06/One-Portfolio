@@ -2,6 +2,7 @@ import React from "react";
 import img1 from "../assets/portfolio/img1.png";
 import img2 from "../assets/portfolio/img2.png";
 import img3 from "../assets/portfolio/img3.png";
+import img4 from "../assets/portfolio/img4.png";
 
 const Porfolio = () => {
 
@@ -25,6 +26,12 @@ const Porfolio = () => {
         link: "https://luckydraww.netlify.app/",
         text: "LUCKY_DRAW",
         
+      },
+      {
+        id:4,
+        src: img4,
+        link: "https://github.com/PrashantGupta06/Traffic_sign_recognition_System",
+        text: " Traffic_Sign_Recognition"
       },
      
     ];

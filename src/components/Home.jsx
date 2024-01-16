@@ -14,7 +14,7 @@ const Home = () => {
       items-center justify-center h-full px-4 md:flex-row gap-20"
       >
         <div className="flex flex-col justify-center h-full gap-2">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
+          <h2 className="text-4xl sm:text-7xl font-bold text-white ">
             I'm a Frontend Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
@@ -36,12 +36,27 @@ const Home = () => {
             </Link>
           </div>
         </div>
+
+        {/* <div className="group flex justify-center text-center relative overflow-hidden rounded-md cursor-pointer">
+    
+      <img
+        src={HeroImage}
+        alt="An image"
+        width={428}
+        height={428}
+        className="rounded-2xl mx-auto w-2/3 md:w-full object-cover ease-in-out duration-500 group-hover:rotate-6 group-hover:scale-125"
+      />
+      
+      <div className="rounded-2xl mx-auto w-2/3 md:w-full  opacity-50 transition-opacity duration-500 group-hover:opacity-20" />
+      
+    </div> */}
         <div>
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl mx-auto w-2/3 md:w-full object-cover ease-in-out duration-500 group-hover:rotate-6 group-hover:scale-125"
           />
+          
         </div>
       </div>
     </div>
